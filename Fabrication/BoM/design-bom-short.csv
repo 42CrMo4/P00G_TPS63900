@@ -1,0 +1,11 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,PARTREV,SNAPEDA_PN,MANUFACTURER,MAXIMUM_PACKAGE_HEIGHT,STANDARD
+1,"Unpolarized capacitor, small symbol",C_Small,C1 C2,C_Small,C_0603_1608Metric,2, ,~,,,,,
+2,"Generic connector, double row, 02x02, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x02_Counter_Clockwise,J1 J2 J3 J4,Conn_02x02_Counter_Clockwise,PinSocket_2x02_P2.54mm_Vertical,4, ,~,,,,,
+3,"Inductor, small symbol",L_Small,L1,2.2uH,L_1008_2520Metric,1, ,~,,,,,
+4,"Resistor, small symbol",R_Small,R1 R2 R3,R_Small,R_0805_2012Metric,3, ,~,,,,,
+5,"Buck-Boost Converter, 1.8-5.5V Input Voltage, 0.4A Switch Current, Adjustable 1.8-5V Output Voltage, WSON-10",TPS63900,U1,TPS63900,WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm_ThermalVias,1, ,https://www.ti.com/lit/ds/symlink/tps63900.pdf,,,,,
+
+
+
+
+
